@@ -40,7 +40,7 @@ namespace Home_Work
             #endregion
 
             #region Task - 2
-
+            int a = 5;
             #endregion
         }
     }
